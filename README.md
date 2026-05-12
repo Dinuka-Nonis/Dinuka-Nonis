@@ -1,16 +1,21 @@
-## Hi there 👋
+# Dinuka Nonis
 
-<!--
-**Dinuka-Nonis/Dinuka-Nonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at SLIIT. I build tools that solve problems I actually have.
 
-Here are some ideas to get you started:
+Currently working on **[LocalCloud](https://github.com/Dinuka-Nonis)** - a Windows desktop app that spins up a self-hosted cloud platform (CI/CD, secrets, observability) with zero terminal interaction, powered by a custom Go container orchestrator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Things I've shipped**
+
+- [**Wynde**](https://github.com/Dinuka-Nonis/wynde) - Keyboard-driven productivity launcher for Windows. Rust + Tauri 2 + SQLite FTS5. Millisecond file search, session restore, IDE project opening.
+- [**Lab Sheet Generator**](https://github.com/Dinuka-Nonis/lab-sheet-generator-app) - Python desktop app that auto-generates formatted .docx lab sheets. Packaged as a standalone Windows exe.
+---
+
+**Stack I reach for**
+
+`Rust` `Java` `Python` `JavaScript` · `React` `Spring Boot` `ASP.NET` · `Docker` `Linux` `SQLite` `MySQL`
+
+---
+
+[dinukanonis@gmail.com](mailto:dinukanonis@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dinuka-nonis-31b362323)
